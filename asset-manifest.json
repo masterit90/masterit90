@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./masterit90/static/css/main.bdbed288.css",
-    "main.js": "./masterit90/static/js/main.c6bdeeff.js",
-    "static/js/787.76b60da3.chunk.js": "./masterit90/static/js/787.76b60da3.chunk.js",
-    "index.html": "./masterit90/index.html",
-    "main.bdbed288.css.map": "./masterit90/static/css/main.bdbed288.css.map",
-    "main.c6bdeeff.js.map": "./masterit90/static/js/main.c6bdeeff.js.map",
-    "787.76b60da3.chunk.js.map": "./masterit90/static/js/787.76b60da3.chunk.js.map"
+    "main.css": "/masterit90/static/css/main.bdbed288.css",
+    "main.js": "/masterit90/static/js/main.c94b6047.js",
+    "static/js/787.76b60da3.chunk.js": "/masterit90/static/js/787.76b60da3.chunk.js",
+    "index.html": "/masterit90/index.html",
+    "main.bdbed288.css.map": "/masterit90/static/css/main.bdbed288.css.map",
+    "main.c94b6047.js.map": "/masterit90/static/js/main.c94b6047.js.map",
+    "787.76b60da3.chunk.js.map": "/masterit90/static/js/787.76b60da3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdbed288.css",
-    "static/js/main.c6bdeeff.js"
+    "static/js/main.c94b6047.js"
   ]
 }
